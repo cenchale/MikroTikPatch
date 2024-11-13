@@ -46,7 +46,15 @@
 
 ## 所有的修补操作都自动运行在[Github Action](https://github.com/elseif/MikroTikPatch/blob/main/.github/workflows/)。
 
-
+https://github.com/zzhccv1234/MikroTikPatch
+https://github.com/robinhelf/MikroTikPatch
+https://github.com/oldmanpushcar/MikroTikPatch-mips
+https://github.com/oldmanpushcar/MikroTikPatch
+https://github.com/xfshi/MikroTikPatch
+https://github.com/wsgtrsys/MikroTikPatch
+https://github.com/eyeieyefish/MikroTikPatch
+https://github.com/bimaindrawans/MikroTikPatch
+https://github.com/lisochenko/MikroTikPatch
 
 
 
